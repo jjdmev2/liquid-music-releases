@@ -5,7 +5,7 @@ It renders real Liquid Glass surfaces, keeps you signed in, and wires YouTube Mu
 keys, Control Center, and Now Playing — so Siri and your keyboard control it like any Apple app.
 
 - ⬇️ **Download:** [latest release](https://github.com/jjdmev2/liquid-music-releases/releases/latest)
-- 💬 **Support:** [@jjdmev2 on X](https://x.com/jjdmev2)
+- 💬 **Support:** [@crypto_wingman on X](https://x.com/crypto_wingman)
 - ✉️ **Email:** juan@dme.network
 
 Requires macOS 14 or later. Apple's system Liquid Glass rendering activates on macOS 26 or newer;
