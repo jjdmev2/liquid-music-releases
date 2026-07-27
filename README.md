@@ -13,9 +13,12 @@ macOS 14–15 fall back to a native material.
 
 ## Installing
 
-1. Download `Liquid Music.dmg` from the [latest release](https://github.com/jjdmev2/liquid-music-releases/releases/latest).
+1. Download `Liquid-Music.dmg` from the [latest release](https://github.com/jjdmev2/liquid-music-releases/releases/latest).
 2. Open it and drag **Liquid Music** to your Applications folder.
 3. Launch it and sign in to YouTube Music. The session persists across restarts.
+
+Builds are signed with a Developer ID certificate and notarized by Apple, so they open
+without Gatekeeper warnings.
 
 This repo hosts published installers only. The application source is maintained privately.
 
