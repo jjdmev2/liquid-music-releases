@@ -22,6 +22,15 @@ without Gatekeeper warnings.
 
 This repo hosts published installers only. The application source is maintained privately.
 
+## License
+
+Liquid Music is free to download and use, but it is not open source. The
+application and its source code are proprietary software owned by DME Inc.
+Copying, modification, redistribution, resale, reverse engineering, and use
+of the source code in another project are not permitted, except where
+applicable law requires otherwise. See the [Liquid Music Freeware
+License](LICENSE) for the complete terms.
+
 YouTube Music is a trademark of Google LLC. Liquid Music is unofficial and is not affiliated with Google.
 
 Built by Juan from DME Inc.
